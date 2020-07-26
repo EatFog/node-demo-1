@@ -1,0 +1,1 @@
+console.log(`it's 2.js`)
